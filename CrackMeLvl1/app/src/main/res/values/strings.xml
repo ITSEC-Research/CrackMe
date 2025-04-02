@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Crack Me</string>
+
+    <string name="msg_question">Tell me, what is the secret?</string>
+
+    <string name="lbl_verify">Verify</string>
+    <string name="msg_success">Congratulations! 🥳</string>
+    <string name="msg_fail">Too bad, try harder next time! 🥺</string>
+
+</resources>
