@@ -39,7 +39,6 @@ This project is open for contributions! If you have any improvements, solutions,
 
 ## Notes
 
-* Please be respectful and avoid sharing solutions publicly outside of this repository's pull requests.
 * This project is intended for educational purposes only.
 * It is assumed that the user has basic knowledge of Android reverse engineering, and tools such as `apktool`, `dex2jar`, `jd-gui`, `Ghidra`, and `Frida`.
 
