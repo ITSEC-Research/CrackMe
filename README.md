@@ -37,11 +37,6 @@ This project is open for contributions! If you have any improvements, solutions,
 * New CrackMe levels.
 * Improved documentation.
 
-## Notes
-
-* This project is intended for educational purposes only.
-* It is assumed that the user has basic knowledge of Android reverse engineering, and tools such as `apktool`, `dex2jar`, `jd-gui`, `Ghidra`, and `Frida`.
-
 ## Disclaimer
 
 This project is provided for educational and informational purposes only. The authors are not responsible for any misuse of the information provided.
